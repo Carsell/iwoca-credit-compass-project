@@ -31,17 +31,29 @@ This project simulates and analyses SME credit data to mirror the role of a **Da
 ## 📁 Project Structure
 
 iwoca-credit-compass-project/
+
 ├── data_generation/
+
 │ └── generate_simulated_data.ipynb # Creates synthetic datasets
+
 ├── notebooks/
+
 │ └── 01_exploratory_data_analysis.ipynb # Full data analysis
+
 ├── data/
+
 │ └── credit_insight_tableau.csv # Enriched dataset for Tableau
+
 ├── generated_data/
+
 │ ├── sme_credit_profiles.csv
+
 │ ├── product_engagement_log.csv
+
 │ └── monthly_credit_scores.csv
+
 ├── README.md
+
 └── .gitignore
 
 ## 📊 Key Features & KPIs
