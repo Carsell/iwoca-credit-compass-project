@@ -1,0 +1,8 @@
+# Ignore generated data
+generated_data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+.DS_Store
+.env
